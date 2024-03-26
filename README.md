@@ -2,4 +2,4 @@
 Homework Assignment 5 completed
 
 
-This repsoitory is meant to store Homework 5 and the accompanying documents.
+This repository is meant to store Homework 5 and the accompanying documents.
